@@ -6,5 +6,24 @@ My goal in this project was to organize, simplify, and replace existing code in 
 
 ### Screenshots
 
+HTML
 
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/horeison%20html1.png
+
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/horeison%20html2.png
+
+CSS
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/horeison%20css1.png
+
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/horeison%20css2.png
+
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/horeison%20css3.png
+
+#### Published Site
+
+https://rstreep.github.io/horiseon-refactor/
+
+#### Github
+
+https://github.com/rstreep/horiseon-refactor
 
