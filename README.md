@@ -12,11 +12,17 @@ My goal in this project was to organize, simplify, and replace existing code in 
 
 ### HTML:
 
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/html1.png?raw=true
 
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/html2.png?raw=true
 
 ### CSS:
 
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/css1.png?raw=true
 
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/css2.png?raw=true
+
+https://github.com/rstreep/horiseon-refactor/blob/main/assets/images/css3.png?raw=true
 
 ## Published Site
 
