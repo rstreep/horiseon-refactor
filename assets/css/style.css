@@ -2,19 +2,14 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    scroll-behavior: smooth;
 }
-/* GENERAL BODY STYLE */
+/* ---------- GENERAL BODY ---------- */
 body {
     background-color: #d9dcd6;
     font-size: 16px;
 }
-/* HEADER AND NAVIGATION BANNER */
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-    color: #d9dcd6;
-}
-
+/* ---------- HEADER ---------- */
 header {
     width: 100%;
     float: right;
@@ -26,7 +21,14 @@ header {
     color: #ffffff;
     max-height: 100px;
 }
+/* header/nav h1 elements */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: #d9dcd6;
+}
 
+/* nav bar buttons */
 nav ul li {
     list-style-type: none;
     display: inline-block;
@@ -35,12 +37,12 @@ nav ul li {
     bottom: 50px;
     margin-left: 25px;
 }
-/* LINK ELEMENTS */
+/* link elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/* HEADER IMAGE */
+/* header image */
 .header-img {
     height: 800px;
     width: 100%;
@@ -49,7 +51,30 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* MAIN BODY IMAGE ELEMENTS */
+
+/* ---------- MAIN ---------- */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* content within the main cards */
+section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* card titles */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* card images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -61,60 +86,37 @@ a {
     margin-left: 25px;
     max-height: 200px;
 }
-/* MAIN CONTENT OF PAGE */
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-/* SIDEBAR */
+
+/* ---------- SIDEBAR ---------- */
 aside {
     margin-right: 20px;
+    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
     background-color: #2589bd;
 }
 
-aside {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* H3 ELEMENTS */
+/* side bar titles */
 h3 {
+    margin-top: 7px;
     margin-bottom: 10px;
     text-align: center;
     padding: 20px;
 }
-
+/* side bar image elements */
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-
-section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-img {
     max-height: 200px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* FOOTER ELEMENTS */
+/* ---------- FOOTER ---------- */
 footer {
     padding: 30px;
     clear: both;
