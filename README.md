@@ -6,7 +6,7 @@ My goal in this project was to organize, simplify, and replace existing code in 
 
 ## Screenshots
 
-### DEPLOYMENT:
+### Deployment:
 
 ![Live Deployment](assets/images/live-deployment.png)
 
